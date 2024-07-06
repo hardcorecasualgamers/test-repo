@@ -1,2 +1,2 @@
 # TEST REPO
-This is a test.
+This is a test. Only a test.
